@@ -1,2 +1,3 @@
+$readrandline
 $addpoints("$user","25","100","they flipped heads! $value Azurency have been added to their virtual wallet!","You gained nothing")
 $removepoints("$user","25","100","they flipped tails! $value Azurency have been removed from their virtual wallet!","You don’t have enough to flip!","false")
