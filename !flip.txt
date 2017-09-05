@@ -1,1 +1,1 @@
-$addpoints("$user","25","100","they flipped heads! $value BUCKAROOS have been added to their virtual wallet!","You gained nothing")
+$addpoints("$user","25","100","they flipped heads! $value BUCKAROOS have been added to their virtual wallet!","You gained nothing") 
