@@ -1,0 +1,1 @@
+$readrandline(https://raw.githubusercontent.com/jordandewsnip/twitchapis/commands/!flip.txt) 
